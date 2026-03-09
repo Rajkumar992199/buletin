@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/health/route": "/api/health",
+  "/api/news/category/[category]/route": "/api/news/category/[category]",
+  "/api/news/route": "/api/news",
+  "/api/news/search/route": "/api/news/search",
+  "/api/news/trending/route": "/api/news/trending",
+  "/page": "/"
+}
