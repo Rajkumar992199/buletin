@@ -1,0 +1,3 @@
+{
+  "/api/news/trending/route": "app/api/news/trending/route.js"
+}
